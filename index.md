@@ -14,21 +14,15 @@ This is a quick guide to creating masks to use in photogrammetry model building.
     * Select ‘Color 2’ then click on the new color you created - this will ensure that both the border and fill of the mask will be this same color
     * Click on the ‘Select’ dropdown menu and choose **Select All --> Delete**
         * This should get rid of the image and replace it with the solid color you selected using the eye dropper tool
-
-D. Saving the mask - DO NOT HIT ‘CTRL S’ OR CLICK ON THE SAVE
-BUTTON!!
-1. Doing the above will basically replace the photo of the object with
-just a black photo which eliminates it from the set
-a) This could mean that the model might not build properly
-since you don’t have that specific angled photo anymore
-
-2. To save properly, click File  Save as
-a) Choose the location in which to save the mask - best not to
-save it into the Images folder, but to the overall folder
-b) Rename the photo as the model designation followed by the
-word ‘mask’
-(1) E.g. puma_effigy_mask.jpg
-IV. Check to make sure that the mask is now in the desire location
+    * Saving the mask - **DO NOT HIT ‘CTRL S’ OR CLICK ON THE SAVE BUTTON!!**
+        * Doing the above will basically replace the photo of the object with just a black photo which eliminates it from the set
+          * This could mean that the model might not build properly since you don’t have that specific angled photo anymore
+          * To save properly, click File  Save as
+               * Choose the location in which to save the mask - best not to save it into the Images folder, but to the overall folder
+               * Rename the photo as the model designation followed by the word ‘mask’
+                  * E.g. puma_effigy_mask.jpg
+                  
+* Check to make sure that the mask is now in the desire location
 
 Photoshop Instructions
 I. Choose a photo for which to create the mask
