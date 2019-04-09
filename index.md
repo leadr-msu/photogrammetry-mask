@@ -26,8 +26,8 @@ This is a quick guide to creating masks to use in photogrammetry model building.
 
 ## Photoshop Instructions
 * Choose a photo for which to create the mask
-      * To ensure the best quality of the mask, choose a photo out of the set where the majority of the object can be seen
-            * Profile photos for skulls, whole-length photos of long bones, etc.
+    * To ensure the best quality of the mask, choose a photo out of the set where the majority of the object can be seen
+         * Profile photos for skulls, whole-length photos of long bones, etc.
 
 II. Open Adobe Photoshop
 A. Click File  Open  Choose the photo that you want to use
