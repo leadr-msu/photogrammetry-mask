@@ -42,7 +42,7 @@ This is a quick guide to creating masks to use in photogrammetry model building.
 * Saving the mask - **DO NOT HIT ‘COMMAND S’ OR CLICK ON THE SAVE BUTTON!!**
    * Doing the above will basically replace the photo of the object with just a black photo which eliminates it from the set
       * This could mean that the model might not build properly since you don’t have that specific angled photo anymore
-   * To save properly, click File  Save as
+   * To save properly, click **File --> Save** as
       * Choose the location in which to save the mask - best not to save it into the **Images** folder, but to the overall folder
       * Rename the photo as the model designation followed by the word ‘mask’
          * E.g. puma_effigy_mask.jpg
