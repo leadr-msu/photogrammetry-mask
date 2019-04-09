@@ -26,34 +26,24 @@ This is a quick guide to creating masks to use in photogrammetry model building.
 
 ## Photoshop Instructions
 * Choose a photo for which to create the mask
-    * To ensure the best quality of the mask, choose a photo out of the set where the majority of the object can be seen
-         * Profile photos for skulls, whole-length photos of long bones, etc.
-
-II. Open Adobe Photoshop
-A. Click File  Open  Choose the photo that you want to use
-B. Once the photo has loaded, choose Edit on the taskbar and then Fill from
-the dropdown menu
-C. A pop-up box should appear - make sure the following options are correct:
-1. Contents
-a) Use: Black (or whichever color your background
-is)
-2. Blending
-a) Mode: Normal
-b) Opacity: 100%
-3. Click Okay
-D. The picture should automatically be completely filled in black
-III. Saving the mask - DO NOT HIT ‘COMMAND S’ OR CLICK ON THE SAVE
-BUTTON!!
-A. Doing the above will basically replace the photo of the object with just a
-black photo which eliminates it from the set
-1. This could mean that the model might not build properly since you
-don’t have that specific angled photo anymore
-
-B. To save properly, click File  Save as
-1. Choose the location in which to save the mask - best not to save it
-into the Images folder, but to the overall folder
-2. Rename the photo as the model designation followed by the word
-‘mask’
-a) E.g. puma_effigy_mask.jpg
-
-IV. Check to make sure that the mask is now in the desire location
+   * To ensure the best quality of the mask, choose a photo out of the set where the majority of the object can be seen
+        * Profile photos for skulls, whole-length photos of long bones, etc.
+* Open Adobe Photoshop
+   * Click **File --> Open -->** Choose the photo that you want to use
+   * Once the photo has loaded, choose **Edit** on the taskbar and then **Fill** from the dropdown menu
+   * A pop-up box should appear - make sure the following options are correct:
+      * **Contents**
+         * **Use: Black (or whichever color your background is)**
+      * **Blending**
+         * **Mode: Normal**
+         * **Opacity: 100%**
+      * Click **Okay**
+   * The picture should automatically be completely filled in black
+* Saving the mask - **DO NOT HIT ‘COMMAND S’ OR CLICK ON THE SAVE BUTTON!!**
+   * Doing the above will basically replace the photo of the object with just a black photo which eliminates it from the set
+      * This could mean that the model might not build properly since you don’t have that specific angled photo anymore
+   * To save properly, click File  Save as
+      * Choose the location in which to save the mask - best not to save it into the **Images** folder, but to the overall folder
+      * Rename the photo as the model designation followed by the word ‘mask’
+         * E.g. puma_effigy_mask.jpg
+* Check to make sure that the mask is now in the desire location
