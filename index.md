@@ -1,0 +1,66 @@
+# Creating a Mask for Agisoft
+Created by Jack A. Biggs
+
+This is a quick guide to creating masks to use in photogrammetry model building.
+
+## Microsoft Paint Instructions
+* Choose a photo for which to create the mask
+    * To ensure the best quality of the mask, choose a photo out of the set where the majority of the object can be seen – preferably from the eye-level rotation
+* Right click on the desired photo
+    * On the dropdown menu choose **Open with --> Paint**
+* Use eye dropper tool to select the color of the background
+    * With this new color in the ‘Color 1’ box, select ‘Edit colors’
+        * Click **Add to Custom Colors** then click **Okay**
+    * Select ‘Color 2’ then click on the new color you created - this will ensure that both the border and fill of the mask will be this same color
+    * Click on the ‘Select’ dropdown menu and choose **Select All --> Delete**
+        * This should get rid of the image and replace it with the solid color you selected using the eye dropper tool
+
+D. Saving the mask - DO NOT HIT ‘CTRL S’ OR CLICK ON THE SAVE
+BUTTON!!
+1. Doing the above will basically replace the photo of the object with
+just a black photo which eliminates it from the set
+a) This could mean that the model might not build properly
+since you don’t have that specific angled photo anymore
+
+2. To save properly, click File  Save as
+a) Choose the location in which to save the mask - best not to
+save it into the Images folder, but to the overall folder
+b) Rename the photo as the model designation followed by the
+word ‘mask’
+(1) E.g. puma_effigy_mask.jpg
+IV. Check to make sure that the mask is now in the desire location
+
+Photoshop Instructions
+I. Choose a photo for which to create the mask
+A. To ensure the best quality of the mask, choose a photo out of the set
+where the majority of the object can be seen
+1. Profile photos for skulls, whole-length photos of long bones, etc.
+
+II. Open Adobe Photoshop
+A. Click File  Open  Choose the photo that you want to use
+B. Once the photo has loaded, choose Edit on the taskbar and then Fill from
+the dropdown menu
+C. A pop-up box should appear - make sure the following options are correct:
+1. Contents
+a) Use: Black (or whichever color your background
+is)
+2. Blending
+a) Mode: Normal
+b) Opacity: 100%
+3. Click Okay
+D. The picture should automatically be completely filled in black
+III. Saving the mask - DO NOT HIT ‘COMMAND S’ OR CLICK ON THE SAVE
+BUTTON!!
+A. Doing the above will basically replace the photo of the object with just a
+black photo which eliminates it from the set
+1. This could mean that the model might not build properly since you
+don’t have that specific angled photo anymore
+
+B. To save properly, click File  Save as
+1. Choose the location in which to save the mask - best not to save it
+into the Images folder, but to the overall folder
+2. Rename the photo as the model designation followed by the word
+‘mask’
+a) E.g. puma_effigy_mask.jpg
+
+IV. Check to make sure that the mask is now in the desire location
