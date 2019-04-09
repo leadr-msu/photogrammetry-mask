@@ -47,3 +47,6 @@ This is a quick guide to creating masks to use in photogrammetry model building.
       * Rename the photo as the model designation followed by the word ‘mask’
          * E.g. puma_effigy_mask.jpg
 * Check to make sure that the mask is now in the desire location
+   
+-----
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
